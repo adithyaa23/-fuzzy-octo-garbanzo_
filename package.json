@@ -1,0 +1,10 @@
+{
+  "name": "oqpyv",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "/index.html",
+  "dependencies": {
+    "webpack": "^5.4.0"
+  }
+}
